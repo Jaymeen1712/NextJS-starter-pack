@@ -1,0 +1,3 @@
+[submodule "ecommerce-app-starter-pack"]
+	path = ecommerce-app-starter-pack
+	url = git@github.com:Jaymeen1712/ecommerce-app-starter-pack.git
